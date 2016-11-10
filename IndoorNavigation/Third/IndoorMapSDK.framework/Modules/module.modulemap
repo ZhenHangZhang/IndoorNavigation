@@ -1,0 +1,6 @@
+framework module IndoorMapSDK {
+  umbrella header "IndoorMapSDK.h"
+
+  export *
+  module * { export * }
+}
